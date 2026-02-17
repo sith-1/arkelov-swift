@@ -1,0 +1,1 @@
+print("Swift version 6.2.3 (swift-6.2.3-RELEASE)")
