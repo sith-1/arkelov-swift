@@ -21,3 +21,6 @@ func minMax(array: [Int]) -> (min: Int, max: Int) {
 let result = minMax(array: [3, 1, 7, -2, 5])
 print("Мин: \(result.min), макс: \(result.max)")
 // Ожидаемый вывод: Мин: -2, макс: 7
+
+
+
